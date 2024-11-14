@@ -1,0 +1,12 @@
+.col-4{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+/* img{
+    width: 200px;
+    height: auto;
+    padding: 10px;
+} */
